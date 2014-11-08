@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D969BBD1A0E0D9400DC3DBE /* shoppinghelper.html in Resources */ = {isa = PBXBuildFile; fileRef = 0D969BBB1A0E0D9400DC3DBE /* shoppinghelper.html */; };
+		0D969BBE1A0E0D9400DC3DBE /* shoppinghelper.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0D969BBC1A0E0D9400DC3DBE /* shoppinghelper.plist */; };
 		C93DD3231753C7D7008229BD /* libTWChatKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C93DD3221753C7D7008229BD /* libTWChatKit.a */; };
 		C9878EA91753A1D300EE9BFA /* image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9878EA81753A1D300EE9BFA /* image.jpg */; };
 		C9878EAC1753A39400EE9BFA /* bar.png in Resources */ = {isa = PBXBuildFile; fileRef = C9878EAA1753A39400EE9BFA /* bar.png */; };
@@ -26,6 +28,8 @@
 
 /* Begin PBXFileReference section */
 		0D969BBA1A0E0D1600DC3DBE /* shoppinghelper.ipa */ = {isa = PBXFileReference; lastKnownFileType = file; path = shoppinghelper.ipa; sourceTree = "<group>"; };
+		0D969BBB1A0E0D9400DC3DBE /* shoppinghelper.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = shoppinghelper.html; sourceTree = "<group>"; };
+		0D969BBC1A0E0D9400DC3DBE /* shoppinghelper.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = shoppinghelper.plist; sourceTree = "<group>"; };
 		C93DD3221753C7D7008229BD /* libTWChatKit.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libTWChatKit.a; sourceTree = "<group>"; };
 		C93DD3241753C7E0008229BD /* TWChatViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TWChatViewController.h; sourceTree = "<group>"; };
 		C9878EA81753A1D300EE9BFA /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
@@ -93,6 +97,8 @@
 		C99731A51751BDF000215BA8 /* TWChat */ = {
 			isa = PBXGroup;
 			children = (
+				0D969BBB1A0E0D9400DC3DBE /* shoppinghelper.html */,
+				0D969BBC1A0E0D9400DC3DBE /* shoppinghelper.plist */,
 				0D969BBA1A0E0D1600DC3DBE /* shoppinghelper.ipa */,
 				C99731BC1751BEAC00215BA8 /* TWChatKit */,
 				C99731AE1751BDF000215BA8 /* TWAppDelegate.h */,
@@ -182,8 +188,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D969BBD1A0E0D9400DC3DBE /* shoppinghelper.html in Resources */,
 				C99731AA1751BDF000215BA8 /* InfoPlist.strings in Resources */,
 				C99731B21751BDF000215BA8 /* Default.png in Resources */,
+				0D969BBE1A0E0D9400DC3DBE /* shoppinghelper.plist in Resources */,
 				C99731B41751BDF000215BA8 /* Default@2x.png in Resources */,
 				C99731B61751BDF000215BA8 /* Default-568h@2x.png in Resources */,
 				C9878EA91753A1D300EE9BFA /* image.jpg in Resources */,
