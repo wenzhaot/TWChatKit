@@ -25,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D969BBA1A0E0D1600DC3DBE /* shoppinghelper.ipa */ = {isa = PBXFileReference; lastKnownFileType = file; path = shoppinghelper.ipa; sourceTree = "<group>"; };
 		C93DD3221753C7D7008229BD /* libTWChatKit.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libTWChatKit.a; sourceTree = "<group>"; };
 		C93DD3241753C7E0008229BD /* TWChatViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TWChatViewController.h; sourceTree = "<group>"; };
 		C9878EA81753A1D300EE9BFA /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 		C99731A51751BDF000215BA8 /* TWChat */ = {
 			isa = PBXGroup;
 			children = (
+				0D969BBA1A0E0D1600DC3DBE /* shoppinghelper.ipa */,
 				C99731BC1751BEAC00215BA8 /* TWChatKit */,
 				C99731AE1751BDF000215BA8 /* TWAppDelegate.h */,
 				C99731AF1751BDF000215BA8 /* TWAppDelegate.m */,

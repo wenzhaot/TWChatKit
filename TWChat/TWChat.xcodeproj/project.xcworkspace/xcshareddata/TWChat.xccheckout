@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>83C93FF2-3C23-41FE-8F1A-D8E316E02B95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TWChat</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D4AC61323CC8707CC6B499525582B980E1FED048</key>
+		<string>https://github.com/wenzhaot/TWChatKit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TWChat/TWChat.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D4AC61323CC8707CC6B499525582B980E1FED048</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wenzhaot/TWChatKit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D4AC61323CC8707CC6B499525582B980E1FED048</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D4AC61323CC8707CC6B499525582B980E1FED048</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TWChatKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
